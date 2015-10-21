@@ -56,6 +56,7 @@ the inspiration to this, and some handy implementation hints, came.
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%201.1.png)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%201.2.png)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%201.3.png)
+![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%201.4.png)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%202.png)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%203.png)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%204.png)
