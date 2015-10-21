@@ -16,6 +16,8 @@ This repository is a basic introduction to Travis – CI’s testing platform.
 
  ### Documentation
  Follow the links below for  Ruby and Javascript specific documentation. [Other programming languanges are also supported.](http://docs.travis-ci.com/user/getting-started/)
+ ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/trv1.png)
+ 
  ##### [Ruby](http://docs.travis-ci.com/user/languages/ruby/)
  ##### [Javascript (Node.js)](http://docs.travis-ci.com/user/languages/javascript-with-nodejs/)
  #### 
@@ -23,44 +25,28 @@ This repository is a basic introduction to Travis – CI’s testing platform.
 
 ### Steps
 
-1) Access [Travis CI](https://travis-ci.org/auth) using your GitHub account.
-2) Once
-
- * foo
- * bar
- * baz
-
-And here's some code! :+1:
-
-```javascript
-$(function(){
-  $('div').html('I am a div.');
-});
-```
-
-This is [on GitHub](https://github.com/jbt/markdown-editor) so let me know if I've b0rked it somewhere.
-
-
-Props to Mr. Doob and his [code editor](http://mrdoob.com/projects/code-editor/), from which
-the inspiration to this, and some handy implementation hints, came.
-
-### Stuff used to make this:
-
- * [markdown-it](https://github.com/markdown-it/markdown-it) for Markdown parsing
- * [CodeMirror](http://codemirror.net/) for the awesome syntax-highlighted editor
- * [highlight.js](http://softwaremaniacs.org/soft/highlight/en/) for syntax highlighting in output code blocks
- * [js-deflate](https://github.com/dankogai/js-deflate) for gzipping of data to make it fit in URLs
-
-![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/trv1.png)
+#### Overview (Detailed steps below)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/trv2.png)
+
+1) Access [Travis CI](https://travis-ci.org/auth) using your GitHub account.
+![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%201.0.png)
+2)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%201.1.png)
+3)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%201.2.png)
+4)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%201.3.png)
+5)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%201.4.png)
+6)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%202.png)
+7)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%203.png)
+8)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%204.png)
+9)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%205.png)
+10)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%206.png)
 
 
