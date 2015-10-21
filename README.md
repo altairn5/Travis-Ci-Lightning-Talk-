@@ -1,3 +1,4 @@
+
 # Travis CI (WDI-21 LightningTalk)
 
 This repository is a basic introduction to Travis – CI’s testing platform.
@@ -53,3 +54,9 @@ the inspiration to this, and some handy implementation hints, came.
  * [CodeMirror](http://codemirror.net/) for the awesome syntax-highlighted editor
  * [highlight.js](http://softwaremaniacs.org/soft/highlight/en/) for syntax highlighting in output code blocks
  * [js-deflate](https://github.com/dankogai/js-deflate) for gzipping of data to make it fit in URLs
+
+# Travis-Ci-Lightning-Talk-
+Brief introduction to Travis CI 
+![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/trv1.png)
+![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/trv2.png)
+
