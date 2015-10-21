@@ -9,7 +9,7 @@ This repository is a basic introduction to Travis – CI’s testing platform.
 
  * Travis CI is a hosted continuous integration platform, which is free for 	public repositories. 
  
- ### What is Travis CI good for?
+### What is Travis CI good for?
  
  * Good for running tests before [deployment to Heroku](http://docs.travis-ci.com/user/deployment/heroku/)
  * Good for working on collaborative projects because of its automated builds 
@@ -55,10 +55,11 @@ the inspiration to this, and some handy implementation hints, came.
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/trv2.png)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%201.1.png)
 ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%201.2.png)
-![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/trv2.png)
-![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/trv2.png)
-![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/trv2.png)
-![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/trv2.png)
-
+![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%201.3.png)
+![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%202.png)
+![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%203.png)
+![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%204.png)
+![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%205.png)
+![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/step%206.png)
 
 
