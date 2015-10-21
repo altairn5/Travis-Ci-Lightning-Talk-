@@ -18,9 +18,9 @@ This repository is a basic introduction to Travis – CI’s testing platform.
  Follow the links below for  Ruby and Javascript specific documentation. [Other programming languages are also supported.](http://docs.travis-ci.com/user/getting-started/)
  ![alt tag](https://github.com/altairn5/Travis-Ci-Lightning-Talk-/blob/master/trv1.png)
  
- * [Ruby Documentation](http://docs.travis-ci.com/user/languages/ruby/)
- * [Javascript Documentation (Node.js)](http://docs.travis-ci.com/user/languages/javascript-with-nodejs/)
- * [Travis-CI's GitHub Repositories](https://github.com/travis-ci/travis-ci)
+ * [Ruby](http://docs.travis-ci.com/user/languages/ruby/) Documentation
+ * [Javascript](http://docs.travis-ci.com/user/languages/javascript-with-nodejs/) Documentation (Node.js)
+ * [Travis-CI's GitHub](https://github.com/travis-ci/travis-ci) Repositories
 
 ### Steps
 
