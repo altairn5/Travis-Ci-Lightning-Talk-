@@ -1,5 +1,5 @@
 
-# Travis CI (WDI-21 LightningTalk)
+# Travis CI (WDI-21 Lightning Talk)
 
 This repository is a basic introduction to Travis – CI’s testing platform.
 
